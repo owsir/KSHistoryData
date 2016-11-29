@@ -1,0 +1,9 @@
+D:\mydemo\ks\dataHistory\KsHistoryData\KsHistoryData\bin\Debug\KsHistoryData.exe.config
+D:\mydemo\ks\dataHistory\KsHistoryData\KsHistoryData\bin\Debug\KsHistoryData.exe
+D:\mydemo\ks\dataHistory\KsHistoryData\KsHistoryData\bin\Debug\KsHistoryData.pdb
+D:\mydemo\ks\dataHistory\KsHistoryData\KsHistoryData\obj\Debug\KsHistoryData.exe
+D:\mydemo\ks\dataHistory\KsHistoryData\KsHistoryData\obj\Debug\KsHistoryData.pdb
+D:\mydemo\ks\dataHistory\KsHistoryData\KsHistoryData\obj\Debug\KsHistoryData.csprojResolveAssemblyReference.cache
+D:\mydemo\ks\dataHistory\KsHistoryData\KsHistoryData\bin\Debug\MySql.Data.dll
+D:\mydemo\ks\dataHistory\KsHistoryData\KsHistoryData\bin\Debug\Newtonsoft.Json.dll
+D:\mydemo\ks\dataHistory\KsHistoryData\KsHistoryData\bin\Debug\Newtonsoft.Json.xml
