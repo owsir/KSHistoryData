@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.IO;
 using System.Linq;
 using System.Text;
@@ -14,8 +15,9 @@ namespace KsHistoryData
         {
             try
             {
+                var dataCount = ConfigurationManager.AppSettings["dataNumberOneTime"];
                 //var url = "http://www.woying.com/kaijiang/jxk3ls/100.html";
-                var url = "http://soa.woying.com/draw/gaopin/Index?lotteryId=120&count=200";
+                var url = $"http://soa.woying.com/draw/gaopin/Index?lotteryId=120&count={dataCount}";
                 var html = HTMLHelper.GetHttpData(url);
 
                 //var dataList = KsDataHelper.GetData(html);

@@ -1,0 +1,10 @@
+/Users/owen/mycode/KSHistoryData/KsHistoryData/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/owen/mycode/KSHistoryData/KsHistoryData/bin/Release/KsHistoryData.exe.config
+/Users/owen/mycode/KSHistoryData/KsHistoryData/bin/Release/KsHistoryData.exe.mdb
+/Users/owen/mycode/KSHistoryData/KsHistoryData/bin/Release/KsHistoryData.pdb
+/Users/owen/mycode/KSHistoryData/KsHistoryData/bin/Release/KsHistoryData.exe
+/Users/owen/mycode/KSHistoryData/KsHistoryData/obj/Release/KsHistoryData.exe
+/Users/owen/mycode/KSHistoryData/KsHistoryData/obj/Release/KsHistoryData.exe.mdb
+/Users/owen/mycode/KSHistoryData/KsHistoryData/obj/Release/KsHistoryData.pdb
+/Users/owen/mycode/KSHistoryData/KsHistoryData/bin/Release/MySql.Data.dll
+/Users/owen/mycode/KSHistoryData/KsHistoryData/bin/Release/Newtonsoft.Json.dll
